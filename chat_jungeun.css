@@ -18,7 +18,7 @@ header a{color:#0b0000;}
 .header_inner2 ul{display:flex;position:absolute;right:21px;top:0;}
 .header_inner2 ul li{line-height:42px;margin-left:5px;}
 
-#container{border:1px solid red;height:700px;}
+#container{height:700px;}
 #container article{display:flex;flex-direction:column;}
 .today{text-align:center;color:#7d7d7d;font-size:14px;margin-top:13px;}
 article.me{position:relative;display:flex;align-items:flex-end;}
@@ -39,7 +39,7 @@ article.friend{display:flex;align-items:flex-start;justify-content:flex-end;}
 .friend_wrap h3{position:relative;top:-30px;}
 
 article time{font-size:13px;color:#7d7d7d;}
-footer{display:flex; flex-direction:row;width:100%;background:#eee;height:45px;border:1px solid red;padding:0 10px;}
+footer{display:flex; flex-direction:row;width:100%;background:#eee;height:45px;padding:0 10px;}
 footer a{color:#b7b3b4;}
 footer p{flex:1 1 0;}
 footer form{flex:8 8 0;padding-top:2px;}
